@@ -1,1 +1,1 @@
-to run use command `yarn dev`
+to run use command `yarn && yarn dev`
